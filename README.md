@@ -22,7 +22,7 @@
 - **Tech Stack**: Python, Scikit-learn, Matplotlib, Pandas, Streamlit
 - **Description**: Built a predictive model to analyze and forecast customer churn using machine learning. Designed insights-driven visualizations to aid decision-making in telecom customer retention strategies.
 
-### [Focus-Room-Web-App-with-AI-Prompt](https://github.com/palak0607/Focus-Room-Web-A)
+### [Focus-Room-Web-App-with-AI-Prompt](https://github.com/palak0607/Focus-Room-Web-App)
 - **Tech Stack**: Node JS, React JS, Javascript, CSS, Gemini API
 - **Description**: Multi-lingual financial security app featuring fraud detection and an OCR model for form guidance. Integrated with a chatbot to address user queries on cyber laws.
 
